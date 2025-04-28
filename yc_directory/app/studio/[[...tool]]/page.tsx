@@ -7,6 +7,8 @@
  * https://github.com/sanity-io/next-sanity
  */
 
+// this is the page
+
 import { NextStudio } from 'next-sanity/studio'
 import config from '../../../sanity.config'
 
